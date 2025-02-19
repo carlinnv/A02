@@ -6,7 +6,7 @@ How to use Git, GitHub, and VSCode.
     <li>Check if Git is installed by typing <code>git --version</code> in your terminal.</li>
     <li>Download Git <a href="https://git-scm.com/downloads">here</a> for your OS.</li>
     <ul>
-        <li>For Windows, I recommend downloading <a href="https://gitforwindows.org/">Git Bash</a>.<li>
+        <li>For Windows, I recommend downloading <a href="https://gitforwindows.org/">Git Bash</a>.</li>
 </ol>
 
 <h4>Step 2: Set up GitHub and create a repository</h4>
@@ -54,7 +54,7 @@ How to use Git, GitHub, and VSCode.
     <li>On the left side of your screen, navigate to the "Source Control" tab.</li>
     <li>Under "Changes", stage the change that you just made by clicking the plus button. You should see that the change was moved to the "Staged Changes" tab. Staging a change means to add it to the list of changes that you want to commit. If you do not stage a change, it will not be committed.</li>
     <li>Enter a descriptive commit message and then press the blue Commit button.</li>
-    <li>
+    <li>Press "Sync changes" to push the commit to your remote repository. Note that this will also pull any changes from your remote repository.</li>
 </ol>
 
 
@@ -62,7 +62,7 @@ How to use Git, GitHub, and VSCode.
     
 
 
-
+<br>
 # Definitions
 <ul>
     <li><strong>Branch:</strong> a version of the main repository isolated from the live version, where you can edit files without worrying about other branches.</li>
@@ -89,6 +89,7 @@ How to use Git, GitHub, and VSCode.
     <li><a href = "https://github.com/git-guides/git-pull">Git Guides: Git Pull</a></li> 
     <li><a href = "https://docs.github.com/en/repositories/creating-and-managing-repositories/about-repositories">GitHub Docs: About Repositories</a></li> 
     <li><a href = "https://code.visualstudio.com/docs/sourcecontrol/intro-to-git">Intro to Git</a></li> 
+    <li><a href="https://lessons.ethereallab.app/general/Github#/">GitHub Version Control slides</a></li>
 
 
 
